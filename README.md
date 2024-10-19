@@ -1,2 +1,3 @@
-# CCMACLRL_FINAL_PROJECT_COM222ML
- The final project for Introduction to Machine Learning subject.
+# Introduction to Machine Learning - Final Project
+
+The final project for Introduction to Machine Learning subject.
