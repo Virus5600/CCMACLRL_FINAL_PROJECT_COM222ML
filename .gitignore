@@ -1,3 +1,5 @@
 .env
 
 datapack/**/*.csv
+
+output/metrics/*.csv
